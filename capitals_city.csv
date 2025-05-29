@@ -1,0 +1,175 @@
+,question,option1,option2,option3,option4,answer,continent,country
+0,What is the capital of Afghanistan?,Vientiane,Seoul,Dhaka,Kabul,Kabul,Asia,Afghanistan
+1,What is the capital of Armenia?,Dushanbe,Bandar Seri Begawan,Beijing,Yerevan,Yerevan,Asia,Armenia
+2,What is the capital of Azerbaijan?,Baku,Dushanbe,Riyadh,Kabul,Baku,Asia,Azerbaijan
+3,What is the capital of Bahrain?,Abu Dhabi,Manama,Thimphu,Sri Jayawardenepura Kotte,Manama,Asia,Bahrain
+4,What is the capital of Bangladesh?,Kuala Lumpur,Dhaka,Doha,Islamabad,Dhaka,Asia,Bangladesh
+5,What is the capital of Bhutan?,Thimphu,Yerevan,Islamabad,Beijing,Thimphu,Asia,Bhutan
+6,What is the capital of Brunei?,Tashkent,Nicosia,Bandar Seri Begawan,Malé,Bandar Seri Begawan,Asia,Brunei
+7,What is the capital of Cambodia?,Bangkok,Phnom Penh,Kuwait City,Naypyidaw,Phnom Penh,Asia,Cambodia
+8,What is the capital of China?,Damascus,Tbilisi,Beijing,Ulaanbaatar,Beijing,Asia,China
+9,What is the capital of Cyprus?,Ashgabat,Muscat,Nicosia,Beijing,Nicosia,Asia,Cyprus
+10,What is the capital of Georgia?,Nicosia,Abu Dhabi,Tbilisi,Jerusalem,Tbilisi,Asia,Georgia
+11,What is the capital of India?,New Delhi,Kuala Lumpur,Manila,Astana,New Delhi,Asia,India
+12,What is the capital of Indonesia?,Jakarta,Ankara,Tehran,Sri Jayawardenepura Kotte,Jakarta,Asia,Indonesia
+13,What is the capital of Iran?,Tehran,Ulaanbaatar,Pyongyang,Hanoi,Tehran,Asia,Iran
+14,What is the capital of Iraq?,Baghdad,Naypyidaw,Kathmandu,Ulaanbaatar,Baghdad,Asia,Iraq
+15,What is the capital of Israel?,Bangkok,Abu Dhabi,Vientiane,Jerusalem,Jerusalem,Asia,Israel
+16,What is the capital of Japan?,Tokyo,Dushanbe,Moscow,Ashgabat,Tokyo,Asia,Japan
+17,What is the capital of Jordan?,Ramallah,Naypyidaw,Amman,Dushanbe,Amman,Asia,Jordan
+18,What is the capital of Kazakhstan?,Kathmandu,Islamabad,Dushanbe,Astana,Astana,Asia,Kazakhstan
+19,What is the capital of Kuwait?,Kuwait City,Beijing,Pyongyang,Riyadh,Kuwait City,Asia,Kuwait
+20,What is the capital of Laos?,Beijing,Malé,Muscat,Vientiane,Vientiane,Asia,Laos
+21,What is the capital of Lebanon?,Beirut,Dushanbe,Riyadh,Tokyo,Beirut,Asia,Lebanon
+22,What is the capital of Malaysia?,Kuala Lumpur,Kathmandu,Ulaanbaatar,Doha,Kuala Lumpur,Asia,Malaysia
+23,What is the capital of Maldives?,Manila,Malé,Manama,Bishkek,Malé,Asia,Maldives
+24,What is the capital of Mongolia?,Abu Dhabi,Ulaanbaatar,Kathmandu,Ashgabat,Ulaanbaatar,Asia,Mongolia
+25,What is the capital of Myanmar?,Naypyidaw,Bandar Seri Begawan,Sri Jayawardenepura Kotte,Moscow,Naypyidaw,Asia,Myanmar
+26,What is the capital of Nepal?,Baghdad,Astana,Bishkek,Kathmandu,Kathmandu,Asia,Nepal
+27,What is the capital of North Korea?,New Delhi,Amman,Pyongyang,Ramallah,Pyongyang,Asia,North Korea
+28,What is the capital of Oman?,Sana'a,Malé,Bishkek,Muscat,Muscat,Asia,Oman
+29,What is the capital of Pakistan?,Seoul,Hanoi,Ashgabat,Islamabad,Islamabad,Asia,Pakistan
+30,What is the capital of Palestine?,Beijing,Ramallah,Moscow,Dhaka,Ramallah,Asia,Palestine
+31,What is the capital of Philippines?,Manila,Beijing,Dhaka,Jerusalem,Manila,Asia,Philippines
+32,What is the capital of Qatar?,Ankara,Doha,Jerusalem,Beirut,Doha,Asia,Qatar
+33,What is the capital of Russia?,Moscow,Vientiane,Astana,Tehran,Moscow,Asia,Russia
+34,What is the capital of Saudi Arabia?,Tashkent,Pyongyang,Kuwait City,Riyadh,Riyadh,Asia,Saudi Arabia
+35,What is the capital of Singapore?,Naypyidaw,Pyongyang,Singapore,Vientiane,Singapore,Asia,Singapore
+36,What is the capital of South Korea?,Seoul,Beijing,Amman,Pyongyang,Seoul,Asia,South Korea
+37,What is the capital of Sri Lanka?,Ankara,Bangkok,Sri Jayawardenepura Kotte,Jakarta,Sri Jayawardenepura Kotte,Asia,Sri Lanka
+38,What is the capital of Syria?,Damascus,Ulaanbaatar,Bangkok,Muscat,Damascus,Asia,Syria
+39,What is the capital of Taiwan?,Amman,Damascus,Taipei,Beirut,Taipei,Asia,Taiwan
+40,What is the capital of Tajikistan?,Dushanbe,Seoul,Muscat,Tashkent,Dushanbe,Asia,Tajikistan
+41,What is the capital of Thailand?,Baghdad,Bangkok,Taipei,Kathmandu,Bangkok,Asia,Thailand
+42,What is the capital of Turkey?,Ankara,Doha,Vientiane,Manila,Ankara,Asia,Turkey
+43,What is the capital of United Arab Emirates?,Tokyo,Kuala Lumpur,Abu Dhabi,Ankara,Abu Dhabi,Asia,United Arab Emirates
+44,What is the capital of Vietnam?,Tashkent,Islamabad,Amman,Hanoi,Hanoi,Asia,Vietnam
+45,What is the capital of Yemen?,Bandar Seri Begawan,Jerusalem,Sana'a,Dushanbe,Sana'a,Asia,Yemen
+46,What is the capital of Albania?,Tirana,Bucharest,Warsaw,Riga,Tirana,Europe,Albania
+47,What is the capital of Armenia?,Tirana,Belgrade,Vienna,Yerevan,Yerevan,Europe,Armenia
+48,What is the capital of Austria?,London,Vienna,Lisbon,Pristina,Vienna,Europe,Austria
+49,What is the capital of Azerbaijan?,Baku,Oslo,Bern,Ankara,Baku,Europe,Azerbaijan
+50,What is the capital of Belarus?,Minsk,Reykjavik,Nicosia,Monaco,Minsk,Europe,Belarus
+51,What is the capital of Belgium?,Copenhagen,Vaduz,Oslo,Brussels,Brussels,Europe,Belgium
+52,What is the capital of Bulgaria?,Podgorica,Dublin,Stockholm,Sofia,Sofia,Europe,Bulgaria
+53,What is the capital of Croatia?,Chisinau,Tallinn,Pristina,Zagreb,Zagreb,Europe,Croatia
+54,What is the capital of Cyprus?,Nicosia,Reykjavik,Brussels,Baku,Nicosia,Europe,Cyprus
+55,What is the capital of Czech Republic?,Baku,Chisinau,Prague,Vatican City,Prague,Europe,Czech Republic
+56,What is the capital of Denmark?,Copenhagen,Stockholm,Berlin,Nicosia,Copenhagen,Europe,Denmark
+57,What is the capital of Estonia?,Vilnius,Minsk,Astana,Tallinn,Tallinn,Europe,Estonia
+58,What is the capital of Finland?,Dublin,Valletta,Helsinki,Brussels,Helsinki,Europe,Finland
+59,What is the capital of France?,Ankara,Paris,Tirana,Rome,Paris,Europe,France
+60,What is the capital of Georgia?,Tbilisi,Tallinn,Copenhagen,Oslo,Tbilisi,Europe,Georgia
+61,What is the capital of Germany?,Rome,Bratislava,Reykjavik,Berlin,Berlin,Europe,Germany
+62,What is the capital of Greece?,Sarajevo,Athens,Copenhagen,Vatican City,Athens,Europe,Greece
+63,What is the capital of Hungary?,Chisinau,Skopje,Budapest,Copenhagen,Budapest,Europe,Hungary
+64,What is the capital of Iceland?,Oslo,Monaco,Reykjavik,Berlin,Reykjavik,Europe,Iceland
+65,What is the capital of Ireland?,Sofia,Podgorica,Luxembourg,Dublin,Dublin,Europe,Ireland
+66,What is the capital of Italy?,Luxembourg,Riga,Vilnius,Rome,Rome,Europe,Italy
+67,What is the capital of Kazakhstan?,Astana,Vilnius,Belgrade,Paris,Astana,Europe,Kazakhstan
+68,What is the capital of Kosovo?,Pristina,Bratislava,Rome,Tbilisi,Pristina,Europe,Kosovo
+69,What is the capital of Latvia?,Tallinn,Riga,Copenhagen,Andorra la Vella,Riga,Europe,Latvia
+70,What is the capital of Liechtenstein?,Dublin,Vaduz,Monaco,Nicosia,Vaduz,Europe,Liechtenstein
+71,What is the capital of Lithuania?,Berlin,Vilnius,San Marino,Pristina,Vilnius,Europe,Lithuania
+72,What is the capital of Luxembourg?,Luxembourg,Amsterdam,Prague,Copenhagen,Luxembourg,Europe,Luxembourg
+73,What is the capital of Malta?,Valletta,Skopje,Sofia,Brussels,Valletta,Europe,Malta
+74,What is the capital of Moldova?,Bern,Lisbon,Budapest,Chisinau,Chisinau,Europe,Moldova
+75,What is the capital of Monaco?,Bratislava,Monaco,London,Dublin,Monaco,Europe,Monaco
+76,What is the capital of Netherlands?,Skopje,Valletta,Madrid,Amsterdam,Amsterdam,Europe,Netherlands
+77,What is the capital of North Macedonia?,Minsk,Nicosia,Skopje,Helsinki,Skopje,Europe,North Macedonia
+78,What is the capital of Norway?,Helsinki,London,Oslo,Reykjavik,Oslo,Europe,Norway
+79,What is the capital of Poland?,Warsaw,Moscow,Ljubljana,Athens,Warsaw,Europe,Poland
+80,What is the capital of Portugal?,Yerevan,Prague,Lisbon,Moscow,Lisbon,Europe,Portugal
+81,What is the capital of Romania?,Chisinau,Bucharest,Reykjavik,Copenhagen,Bucharest,Europe,Romania
+82,What is the capital of Russia?,San Marino,Nicosia,Moscow,Bern,Moscow,Europe,Russia
+83,What is the capital of Serbia?,Helsinki,Belgrade,Amsterdam,Andorra la Vella,Belgrade,Europe,Serbia
+84,What is the capital of Slovakia?,Helsinki,Bucharest,Bratislava,Vienna,Bratislava,Europe,Slovakia
+85,What is the capital of Slovenia?,Riga,Ljubljana,Nicosia,Baku,Ljubljana,Europe,Slovenia
+86,What is the capital of Spain?,Madrid,Yerevan,Ljubljana,Ankara,Madrid,Europe,Spain
+87,What is the capital of Sweden?,Vatican City,Monaco,Belgrade,Stockholm,Stockholm,Europe,Sweden
+88,What is the capital of Switzerland?,Reykjavik,Sofia,Bern,Madrid,Bern,Europe,Switzerland
+89,What is the capital of Turkey?,Ankara,San Marino,Ljubljana,Sarajevo,Ankara,Europe,Turkey
+90,What is the capital of Ukraine?,Chisinau,Nicosia,Helsinki,Kyiv,Kyiv,Europe,Ukraine
+91,What is the capital of United Kingdom?,London,Belgrade,Dublin,Minsk,London,Europe,United Kingdom
+92,What is the capital of Vatican City?,Skopje,Baku,Vatican City,Riga,Vatican City,Europe,Vatican City
+93,What is the capital of Bahamas?,Saint George's,Havana,Nassau,"Washington, D.C.",Nassau,North America,Bahamas
+94,What is the capital of Canada?,Port-au-Prince,Havana,Basseterre,Ottawa,Ottawa,North America,Canada
+95,What is the capital of Cuba?,Havana,Kingston,Port-au-Prince,San José,Havana,North America,Cuba
+96,What is the capital of Dominica?,Roseau,Basseterre,San Salvador,Bridgetown,Roseau,North America,Dominica
+97,What is the capital of Dominican Republic?,Santo Domingo,Port-au-Prince,Basseterre,Kingston,Santo Domingo,North America,Dominican Republic
+98,What is the capital of Grenada?,San Salvador,Saint George's,Kingstown,Port of Spain,Saint George's,North America,Grenada
+99,What is the capital of Guatemala?,Guatemala City,Panama City,San Salvador,Santo Domingo,Guatemala City,North America,Guatemala
+100,What is the capital of Haiti?,Guatemala City,Mexico City,Nassau,Port-au-Prince,Port-au-Prince,North America,Haiti
+101,What is the capital of Honduras?,Mexico City,Tegucigalpa,San José,Port-au-Prince,Tegucigalpa,North America,Honduras
+102,What is the capital of Jamaica?,San José,Castries,Kingston,Saint George's,Kingston,North America,Jamaica
+103,What is the capital of Mexico?,Mexico City,Tegucigalpa,Belmopan,Ottawa,Mexico City,North America,Mexico
+104,What is the capital of Nicaragua?,Managua,Port-au-Prince,Castries,Havana,Managua,North America,Nicaragua
+105,What is the capital of Panama?,Panama City,Guatemala City,Castries,Roseau,Panama City,North America,Panama
+106,What is the capital of United States?,Saint John's,Havana,Ottawa,"Washington, D.C.","Washington, D.C.",North America,United States
+107,What is the capital of Argentina?,Brasília,Bogotá,Buenos Aires,Santiago,Buenos Aires,South America,Argentina
+108,What is the capital of Bolivia?,Sucre,Bogotá,Paramaribo,Brasília,Sucre,South America,Bolivia
+109,What is the capital of Brazil?,Lima,Sucre,Brasília,Buenos Aires,Brasília,South America,Brazil
+110,What is the capital of Chile?,Santiago,Buenos Aires,Sucre,Lima,Santiago,South America,Chile
+111,What is the capital of Colombia?,Quito,Santiago,Buenos Aires,Bogotá,Bogotá,South America,Colombia
+112,What is the capital of Ecuador?,Quito,Caracas,Georgetown,Lima,Quito,South America,Ecuador
+113,What is the capital of Guyana?,Georgetown,Quito,Montevideo,Santiago,Georgetown,South America,Guyana
+114,What is the capital of Paraguay?,Paramaribo,Asunción,Quito,Brasília,Asunción,South America,Paraguay
+115,What is the capital of Peru?,Paramaribo,Buenos Aires,Lima,Brasília,Lima,South America,Peru
+116,What is the capital of Uruguay?,Georgetown,Brasília,Buenos Aires,Montevideo,Montevideo,South America,Uruguay
+117,What is the capital of Venezuela?,Asunción,Brasília,Sucre,Caracas,Caracas,South America,Venezuela
+118,What is the capital of Australia?,Suva,Funafuti,Canberra,Apia,Canberra,Australia,Australia
+119,What is the capital of Fiji?,Port Vila,Suva,Funafuti,Nukuʻalofa,Suva,Australia,Fiji
+120,What is the capital of Kiribati?,Tarawa,Ngerulmud,Suva,Majuro,Tarawa,Australia,Kiribati
+121,What is the capital of Marshall Islands?,Majuro,Palikir,Tarawa,Port Vila,Majuro,Australia,Marshall Islands
+122,What is the capital of Micronesia?,Tarawa,Suva,Port Vila,Palikir,Palikir,Australia,Micronesia
+123,What is the capital of New Zealand?,Nukuʻalofa,Wellington,Yaren,Port Vila,Wellington,Australia,New Zealand
+124,What is the capital of Palau?,Tarawa,Funafuti,Ngerulmud,Yaren,Ngerulmud,Australia,Palau
+125,What is the capital of Papua New Guinea?,Port Moresby,Canberra,Funafuti,Tarawa,Port Moresby,Australia,Papua New Guinea
+126,What is the capital of Samoa?,Apia,Ngerulmud,Honiara,Port Vila,Apia,Australia,Samoa
+127,What is the capital of Solomon Islands?,Tarawa,Honiara,Suva,Wellington,Honiara,Australia,Solomon Islands
+128,What is the capital of Tonga?,Nukuʻalofa,Palikir,Port Vila,Apia,Nukuʻalofa,Australia,Tonga
+129,What is the capital of Tuvalu?,Honiara,Majuro,Palikir,Funafuti,Funafuti,Australia,Tuvalu
+130,What is the capital of Vanuatu?,Ngerulmud,Port Vila,Yaren,Suva,Port Vila,Australia,Vanuatu
+131,What is the capital of Algeria?,Algiers,Niamey,Libreville,Rabat,Algiers,Africa,Algeria
+132,What is the capital of Angola?,Maputo,Dodoma,Luanda,Praia,Luanda,Africa,Angola
+133,What is the capital of Botswana?,Gaborone,Asmara,Banjul,Rabat,Gaborone,Africa,Botswana
+134,What is the capital of Burkina Faso?,Ouagadougou,Gaborone,Dodoma,Harare,Ouagadougou,Africa,Burkina Faso
+135,What is the capital of Burundi?,Maseru,Gitega,Gaborone,Victoria,Gitega,Africa,Burundi
+136,What is the capital of Cameroon?,Juba,Yaoundé,Freetown,Yamoussoukro,Yaoundé,Africa,Cameroon
+137,What is the capital of Central African Republic?,Victoria,Tripoli,Bangui,Lusaka,Bangui,Africa,Central African Republic
+138,What is the capital of Chad?,N'Djamena,Yamoussoukro,Malabo,Yaoundé,N'Djamena,Africa,Chad
+139,What is the capital of Comoros?,Moroni,Conakry,Bissau,Yamoussoukro,Moroni,Africa,Comoros
+140,What is the capital of Congo (Brazzaville)?,Brazzaville,Asmara,Monrovia,Port Louis,Brazzaville,Africa,Congo (Brazzaville)
+141,What is the capital of Congo (Kinshasa)?,Addis Ababa,Abuja,Maputo,Kinshasa,Kinshasa,Africa,Congo (Kinshasa)
+142,What is the capital of Egypt?,Accra,Harare,Praia,Cairo,Cairo,Africa,Egypt
+143,What is the capital of Equatorial Guinea?,Monrovia,Malabo,Victoria,Bissau,Malabo,Africa,Equatorial Guinea
+144,What is the capital of Ethiopia?,Bamako,Gitega,Addis Ababa,Juba,Addis Ababa,Africa,Ethiopia
+145,What is the capital of Gabon?,Lusaka,Libreville,Algiers,Asmara,Libreville,Africa,Gabon
+146,What is the capital of Gambia?,Ouagadougou,Banjul,Yaoundé,Porto-Novo,Banjul,Africa,Gambia
+147,What is the capital of Ghana?,São Tomé,Malabo,Accra,Pretoria,Accra,Africa,Ghana
+148,What is the capital of Guinea?,Conakry,Porto-Novo,Yamoussoukro,Kigali,Conakry,Africa,Guinea
+149,What is the capital of Kenya?,Luanda,Dodoma,Victoria,Nairobi,Nairobi,Africa,Kenya
+150,What is the capital of Lesotho?,Maseru,Harare,Addis Ababa,Gaborone,Maseru,Africa,Lesotho
+151,What is the capital of Liberia?,Lilongwe,Nouakchott,Libreville,Monrovia,Monrovia,Africa,Liberia
+152,What is the capital of Libya?,Lomé,Tripoli,Ouagadougou,Dakar,Tripoli,Africa,Libya
+153,What is the capital of Madagascar?,Antananarivo,Djibouti,Porto-Novo,Brazzaville,Antananarivo,Africa,Madagascar
+154,What is the capital of Malawi?,Lilongwe,Juba,Bangui,Rabat,Lilongwe,Africa,Malawi
+155,What is the capital of Mali?,Bamako,Ouagadougou,Gaborone,Libreville,Bamako,Africa,Mali
+156,What is the capital of Mauritania?,Yaoundé,Accra,Nouakchott,Victoria,Nouakchott,Africa,Mauritania
+157,What is the capital of Mauritius?,Port Louis,Tunis,Juba,São Tomé,Port Louis,Africa,Mauritius
+158,What is the capital of Morocco?,Porto-Novo,Asmara,Rabat,Mogadishu,Rabat,Africa,Morocco
+159,What is the capital of Mozambique?,Bamako,Maputo,Addis Ababa,Brazzaville,Maputo,Africa,Mozambique
+160,What is the capital of Namibia?,Libreville,Windhoek,Harare,Lusaka,Windhoek,Africa,Namibia
+161,What is the capital of Niger?,Mbabane,Freetown,Niamey,Praia,Niamey,Africa,Niger
+162,What is the capital of Nigeria?,Abuja,Lilongwe,Mbabane,Addis Ababa,Abuja,Africa,Nigeria
+163,What is the capital of Rwanda?,Mbabane,Banjul,Nouakchott,Kigali,Kigali,Africa,Rwanda
+164,What is the capital of Sierra Leone?,Freetown,N'Djamena,Brazzaville,Mbabane,Freetown,Africa,Sierra Leone
+165,What is the capital of Somalia?,Porto-Novo,Asmara,Mogadishu,Bamako,Mogadishu,Africa,Somalia
+166,What is the capital of South Africa?,Pretoria,Abuja,Libreville,Asmara,Pretoria,Africa,South Africa
+167,What is the capital of South Sudan?,Lomé,Juba,Conakry,Libreville,Juba,Africa,South Sudan
+168,What is the capital of Sudan?,Nairobi,Khartoum,São Tomé,Gaborone,Khartoum,Africa,Sudan
+169,What is the capital of Tanzania?,Dodoma,Abuja,Addis Ababa,Windhoek,Dodoma,Africa,Tanzania
+170,What is the capital of Tunisia?,Tunis,Monrovia,Kinshasa,Algiers,Tunis,Africa,Tunisia
+171,What is the capital of Uganda?,Dakar,Bamako,Kampala,Gaborone,Kampala,Africa,Uganda
+172,What is the capital of Zambia?,Bamako,Cairo,Addis Ababa,Lusaka,Lusaka,Africa,Zambia
+173,What is the capital of Zimbabwe?,Yamoussoukro,Dodoma,Bamako,Harare,Harare,Africa,Zimbabwe
