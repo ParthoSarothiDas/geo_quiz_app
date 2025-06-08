@@ -314,6 +314,8 @@ st.markdown("""
 <div style="text-align: center; font-size: 0.9em; color: gray;">
     Created by <b>Partho Sarothi Das</b><br>
     <i>Aspiring Data Scientist | Passionate about ML & Visualization</i><br>
-    Email: <a href="mailto:partho52@gmail.com">partho52@gmail.com</a>
+    Email: <a href="mailto:partho52@gmail.com">partho52@gmail.com</a><br><br>
+    Globe images used in this app are sourced from <a href="https://commons.wikimedia.org" target="_blank">Wikimedia Commons</a> and licensed under 
+    <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank">CC BY-SA 3.0</a>. Images may have been resized or renamed for educational use.
 </div>
 """, unsafe_allow_html=True)
